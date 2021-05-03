@@ -1,0 +1,12 @@
+{
+  "name": "formula",
+  "version": "1.0.0",
+  "description": "mathematical formula",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devServer": "nodemon main.js"
+  },
+  "author": "codetech",
+  "license": "ISC"
+}
